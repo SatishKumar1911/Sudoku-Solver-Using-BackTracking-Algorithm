@@ -14,4 +14,9 @@ In industries where machines need to be scheduled for different jobs to optimize
 ## To Run:
 install python in your system.
 <br>
-command -----> python3 
+command to run -----> python3 SudokuSolver.py
+<br>
+![image](https://github.com/SatishKumar1911/Sudoku-Solver-Using-BackTracking-Algorithm/assets/124880943/f574ec0a-ffb8-45bb-bdda-1df56b1692dd)
+
+## Output:
+![image](https://github.com/SatishKumar1911/Sudoku-Solver-Using-BackTracking-Algorithm/assets/124880943/84cfa178-8ff0-4419-b8e5-54069b7be83c)
