@@ -88,8 +88,13 @@ def find_empty(bo):
 
     return None
 
-
+print()
+print("Before Solving....")
+print()
 print_board(board1)
 solve(board1)
 print("#" * 23)
+print()
+print("After Solving...")
+print()
 print_board(board1)
