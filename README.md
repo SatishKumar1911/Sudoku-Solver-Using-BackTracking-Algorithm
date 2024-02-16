@@ -5,12 +5,13 @@ The program displays the solved Sudoku board once the solution is found. It demo
 
 ## Applications of BackTracking-Algorithm
 
-### Job Scheduling: 
-In industries where machines need to be scheduled for different jobs to optimize production, backtracking can be used to find the best schedule that meets all constraints.
-
 ### Robotics Path Planning: 
 In robotics, backtracking can be used to plan the path for a robot to navigate through a complex environment while avoiding obstacles. (eg. Self Driving Car).
 
+### Job Scheduling: 
+In industries where machines need to be scheduled for different jobs to optimize production, backtracking can be used to find the best schedule that meets all constraints.
+
 ## To Run:
 install python in your system.
+<br>
 command -----> python3 
